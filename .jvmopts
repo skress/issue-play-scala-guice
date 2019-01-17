@@ -1,0 +1,3 @@
+# JVM options for building.
+
+#--illegal-access=warn
